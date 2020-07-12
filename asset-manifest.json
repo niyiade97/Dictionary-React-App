@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dictionary-React-App/static/css/main.7f50b365.chunk.css",
+    "main.js": "/Dictionary-React-App/static/js/main.ba587402.chunk.js",
+    "main.js.map": "/Dictionary-React-App/static/js/main.ba587402.chunk.js.map",
+    "runtime-main.js": "/Dictionary-React-App/static/js/runtime-main.44d29b0d.js",
+    "runtime-main.js.map": "/Dictionary-React-App/static/js/runtime-main.44d29b0d.js.map",
+    "static/js/2.0058ab78.chunk.js": "/Dictionary-React-App/static/js/2.0058ab78.chunk.js",
+    "static/js/2.0058ab78.chunk.js.map": "/Dictionary-React-App/static/js/2.0058ab78.chunk.js.map",
+    "index.html": "/Dictionary-React-App/index.html",
+    "precache-manifest.8eb1e0c16488a1892a56c54ddb8930b2.js": "/Dictionary-React-App/precache-manifest.8eb1e0c16488a1892a56c54ddb8930b2.js",
+    "service-worker.js": "/Dictionary-React-App/service-worker.js",
+    "static/css/main.7f50b365.chunk.css.map": "/Dictionary-React-App/static/css/main.7f50b365.chunk.css.map",
+    "static/js/2.0058ab78.chunk.js.LICENSE.txt": "/Dictionary-React-App/static/js/2.0058ab78.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44d29b0d.js",
+    "static/js/2.0058ab78.chunk.js",
+    "static/css/main.7f50b365.chunk.css",
+    "static/js/main.ba587402.chunk.js"
+  ]
+}
