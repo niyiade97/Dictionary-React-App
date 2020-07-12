@@ -139,6 +139,7 @@ else{
                 audio.setAttribute("src",audioUrl);
                 audio.setAttribute("controls","controls");
                 audio.setAttribute("play","play");
+                spell.innerHTML ="";
                 spell.append(audio);
                 break;
               
